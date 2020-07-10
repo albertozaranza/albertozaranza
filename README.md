@@ -6,7 +6,7 @@ I seek to become a mobile development specialist to help people and bring the fe
 
 ReactJS, NodeJS and a little TypeScript enthusiast in his spare time. Curious about the UI / UX area. ⚛
 
-- 🔭 I’m currently working on ![ioasys][https://ioasys.com.br/]
+- 🔭 I’m currently working on [ioasys](https://ioasys.com.br/)
 - 🌱 I’m currently learning React Native, React, JavaScript and TypeScript
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with my knowledge
