@@ -1,3 +1,9 @@
+# Alberto Zaranza
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/albertozaranza)](https://github.com/albertozaranza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertozaranza)](https://www.linkedin.com/in/albertozaranza)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertozaranza@gmail.com)](mailto:albertozaranza@gmail.com)
+
 ### About
 
 Programmer since 2015, always looking for new challenges and with a thirst for learning. Currently focused on the development of mobile applications. Among my favorite technologies I can mention React Native together with JavaScript. 💻
