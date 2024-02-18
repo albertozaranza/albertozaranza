@@ -1,18 +1,40 @@
-# Alberto Zaranza
+```typescipt
+const username: string = "albertozaranza";
+const name: string = "Alberto Zaranza";
+const languages: string = "JavaScript, TypeScript";
+const frameworks: string = "React, React Native";
 
-[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/albertozaranza)](https://github.com/albertozaranza)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertozaranza)](https://www.linkedin.com/in/albertozaranza)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertozaranza@gmail.com)](mailto:albertozaranza@gmail.com)
+const linkedin: string = "https://www.linkedin.com/in/albertozaranza/";
+const email: string = "albertozaranza@gmail.com";
+const website: string = "https://albertozaranza.github.io/portfolio/";
 
-## About
+type Project {
+    name: string;
+    description: string;
+}
 
-Programmer since 2015, always looking for new challenges and with a thirst for learning. Currently focused on the development of **mobile applications**. Among my favorite technologies I can mention **React Native** together with **TypeScript**. 💻
+const portfolio: Project = {
+    name: "Portfolio",
+    description: "Browse through my projects and discover my talent and experience in software development"
+};
 
-I seek to become a **mobile development** specialist to help people and bring the feeling that everyone can do anything from the palm of their hand. 📱
+const moveIt: Project = {
+    name: "MoveIt",
+    description: "Help developers to do more exercises during the day"
+};
 
-**ReactJS** and **NodeJS** enthusiast in my spare time. Curious about the **UI** / **UX** area. ⚛
+const npmAutomation: Project = {
+    name: "Npm Automation",
+    description: "Create a new release of your package on NPM when you merge a release pull request"
+};
 
-- 🌱 I’m currently learning React Native, React, JavaScript and TypeScript
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with my knowledge
-- 📫 How to reach me: albertozaranza@gmail.com
+type Contribution {
+    name: string;
+    description: string;
+}
+
+const astroNative: Contribution = {
+    name: "Astro Native",
+    description: "Astro components for React Native"
+};
+```
