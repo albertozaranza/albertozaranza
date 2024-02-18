@@ -1,4 +1,4 @@
-```typescipt
+```typescript
 const username: string = "albertozaranza";
 const name: string = "Alberto Zaranza";
 const languages: string = "JavaScript, TypeScript";
