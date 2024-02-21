@@ -8,7 +8,7 @@ const linkedin: string = "https://www.linkedin.com/in/albertozaranza/";
 const email: string = "albertozaranza@gmail.com";
 const website: string = "https://albertozaranza.github.io/portfolio/";
 
-type Project {
+type Project = {
     name: string;
     description: string;
 }
@@ -28,7 +28,7 @@ const npmAutomation: Project = {
     description: "Create a new release of your package on NPM when you merge a release pull request"
 };
 
-type Contribution {
+type Contribution = {
     name: string;
     description: string;
 }
